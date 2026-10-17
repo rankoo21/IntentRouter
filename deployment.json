@@ -1,0 +1,10 @@
+{
+  "name": "IntentRouter",
+  "address": "0xD3b147EE46206a9a8055529eeAa74617A1093874",
+  "deployment_transaction": "0x377b74f81aedd61a62331b403b8503ced4fa9203f5d51731581a7aeac515c416",
+  "live_create_transaction": "0x6b61314a23ca2cdb25210fc446b091c1ef21e55d37507fbc3d8ab0297c7dae2d",
+  "live_route_transaction": "0x337000ae6b018d2dc5a5bc4d427d0fe1abbd34b6bfbb1a8f5ef165a109e083fc",
+  "network": "studionet",
+  "source_sha256": "151cc1573de299a40ac2f23ae8a20748a18786a093834307133decab213802ce",
+  "source_verified": true
+}
